@@ -1,5 +1,0 @@
-1|Core Java Volume I|Cay S. Horstmann|978-0135166307|BORROWED
-2|Head First Java|Kathy Sierra|978-0596009205|AVAILABLE
-3|Effective Java|Joshua Bloch|978-0134685991|AVAILABLE
-4|Introduction to Algorithms|Thomas H. Cormen|978-0262033848|AVAILABLE
-5|Clean Architecture|Robert Martin|978-0134494166|AVAILABLE
