@@ -1,0 +1,6 @@
+1|System Admin|admin@library.com|admin123|ADMIN|0
+2|Rahul Sharma|rahul@student.edu|pass123|MEMBER|0
+3|Priya Patel|priya@student.edu|pass123|MEMBER|0
+4|Ishan|abc@gmail.com|1234|MEMBER|1
+5|Sneha Gupta|sneha@college.edu|pass123|MEMBER|0
+6|Ash Ketchum|ashketchum@gmail.com|1234|MEMBER|0
